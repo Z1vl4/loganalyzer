@@ -1,0 +1,3 @@
+enhetstester
+test för snmp hantering
+samma för log parser

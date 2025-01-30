@@ -2,4 +2,4 @@
 Realtime loganalyzing using OpenAI 
 
 
-test2
+dokumentation

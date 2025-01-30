@@ -1,0 +1,3 @@
+realtidslogghantering
+zeromq för realtidsloggar
+lyssna på snmp-traps

@@ -1,0 +1,1 @@
+#konfig fil för api nycklar, db inställning
