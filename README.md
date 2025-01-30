@@ -2,4 +2,4 @@
 Realtime loganalyzing using OpenAI 
 
 
-yallo, test test
+test2
