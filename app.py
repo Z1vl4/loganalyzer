@@ -5,7 +5,7 @@ from sqlalchemy import CheckConstraint
 app = Flask(__name__, template_folder='app/templates', static_folder='app/static')
 
 # Anslutning till PostgreSQL
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:Examensarbete2025@localhost/loganalyzer'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:'
 
 db = SQLAlchemy(app)
 
